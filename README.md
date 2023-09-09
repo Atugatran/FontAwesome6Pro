@@ -9,7 +9,7 @@ You can use with this method<br>
 This for use with cdn:
 <br>
 ```
-<link rel="stylesheet" href="https://atul22g.github.io/FontAwesome6Pro2//pro/css/all.css" >
+<link rel="stylesheet" href="https://atul22g.github.io/FontAwesome6Pro2/css/all.min.css" >
  ```
 <br>
 
